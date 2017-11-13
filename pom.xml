@@ -3,14 +3,14 @@
   <groupId>Com.demo.app</groupId>
   <artifactId>newprj</artifactId>
   <packaging>war</packaging>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.0.1</version>
   <name>newprj Maven Webapp</name>
   <url>http://maven.apache.org</url>
  <scm>
    <connection>scm:git:git@github.com:breddyprasad/newprj.git</connection>
     <developerConnection>scm:git:git@github.com:breddyprasad/newprj.git</developerConnection>
     <url>scm:git:git@github.com:breddyprasad/newprj.git</url>
-  <tag>HEAD</tag>
+  <tag>newprj-0.0.1</tag>
   </scm>
 
 <distributionManagement>
